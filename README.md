@@ -1,4 +1,5 @@
-# Exploit-DB Web Scraping Tool
+#  Web Scraping Tool
+
 
 This Python script is a web scraping tool designed to fetch data from Exploit-DB without relying on HTML structure. It utilizes the `requests` library to make HTTP requests and extract relevant information from the website.
 
