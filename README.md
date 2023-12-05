@@ -19,7 +19,7 @@ This Python script is a web scraping tool designed to fetch data from Exploit-DB
 
 3. Run the script:
     ```bash
-    python exploit_db_scrape.py
+    python web_scrap_file2.py
     ```
 
 4. Explore the extracted data from Exploit-DB.
@@ -37,10 +37,7 @@ This Python script is a web scraping tool designed to fetch data from Exploit-DB
 - Author: John Doe
 - Download Link: [Exploit Download](https://www.exploit-db.com/download/12345)
 
-## Disclaimer
 
-This script is intended for educational purposes only. Use it responsibly and in compliance with Exploit-DB's terms of service.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
